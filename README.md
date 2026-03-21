@@ -5,7 +5,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 ---
 
 ## 🚀 Live Demo
-👉 https://tic-tac-toe-one-blue-53.vercel.app
+👉 https://rock-paper-scissors-orpin-zeta.vercel.app
 
 ---
 
